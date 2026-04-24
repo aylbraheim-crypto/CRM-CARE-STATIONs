@@ -1,0 +1,1 @@
+{ "name": "crm-care-stations-backend", "version": "1.0.0", "main": "server.js", "scripts": { "start": "node server.js" }, "dependencies": { "express": "^4.17.1", "dotenv": "^8.2.0", "mongoose": "^5.10.9" } }
